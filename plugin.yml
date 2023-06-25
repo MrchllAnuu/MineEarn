@@ -2,7 +2,7 @@
 name: MineEarn
 main: aiptu\mineearn\MineEarn
 version: 1.0.0
-api: [4.0.0]
+api: [5.0.0]
 author: AIPTU
 softdepend: [EconomyAPI, BedrockEconomy]
 ...
