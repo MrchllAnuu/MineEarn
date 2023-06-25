@@ -27,7 +27,7 @@ earnings:
     "log:1": 60
  # Per-world earnings.
   worlds:
-    world: # World folder name
+    mine: # World folder name
       "diamond_ore": 350
       "emerald_ore": 300
       "lapis_lazuli": 280
