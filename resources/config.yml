@@ -11,7 +11,7 @@ messages:
 # Economy settings.
 # Possible providers: economyapi, bedrockeconomy, xp
 economy:
-  provider: BedrockEconomy
+  provider: EconomyAPI
 
 # Earnings settings.
 # If you are using xp provider, 1 = 1 level of experience.
